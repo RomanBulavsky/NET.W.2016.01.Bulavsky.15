@@ -1,0 +1,9 @@
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\MatrixTests\bin\Debug\MatrixTests.dll
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\MatrixTests\bin\Debug\MatrixTests.pdb
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\MatrixTests\bin\Debug\nunit.framework.dll
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\MatrixTests\bin\Debug\Task1.pdb
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\MatrixTests\bin\Debug\nunit.framework.xml
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\MatrixTests\obj\Debug\MatrixTests.csprojResolveAssemblyReference.cache
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\MatrixTests\obj\Debug\MatrixTests.dll
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\MatrixTests\obj\Debug\MatrixTests.pdb
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\MatrixTests\bin\Debug\Task1.dll

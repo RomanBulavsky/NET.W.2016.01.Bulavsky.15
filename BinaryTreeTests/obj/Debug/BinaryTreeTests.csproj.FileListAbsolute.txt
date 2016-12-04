@@ -1,0 +1,13 @@
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\BinaryTreeTests\bin\Debug\BinaryTreeTests.dll
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\BinaryTreeTests\bin\Debug\BinaryTreeTests.pdb
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\BinaryTreeTests\bin\Debug\nunit.framework.dll
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\BinaryTreeTests\bin\Debug\Task2.dll
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\BinaryTreeTests\bin\Debug\Task2.pdb
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\BinaryTreeTests\bin\Debug\nunit.framework.xml
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\BinaryTreeTests\obj\Debug\BinaryTreeTests.csprojResolveAssemblyReference.cache
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\BinaryTreeTests\obj\Debug\BinaryTreeTests.dll
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\BinaryTreeTests\obj\Debug\BinaryTreeTests.pdb
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\BinaryTreeTests\bin\Debug\MatrixTests.dll
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\BinaryTreeTests\bin\Debug\Task1.dll
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\BinaryTreeTests\bin\Debug\MatrixTests.pdb
+C:\Home\EPAM\NET.W.2016.01.Bulavsky.15\BinaryTreeTests\bin\Debug\Task1.pdb
